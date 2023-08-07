@@ -50,17 +50,17 @@ hr {
 }
 
 /* Add your solution below */
-
-.image-circle {
-  border: 2px;
+.image-circle{
+  border: 2px solid;
+  border-color: #003049;
   border-radius: 50%;
-  color: #003049;
 }
 
-a:link { color: #d62828; }
+a:link{ color: #d62828; }
 a:visited { color: #d62828; }
 a:hover  { color: #f77f00; }
 
 footer{
   text-align: center;
 }
+
